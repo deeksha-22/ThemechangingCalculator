@@ -21,6 +21,16 @@ h1{
     color: var(--font-color);
 }
 
+.themes{
+    margin: 0fr;
+    border: #2C272E;
+    font-family: cursive;
+}
+
+.themes option{
+    font-style: oblique;
+    font-display: blue;
+}
 .calculator{
     text-align: center;
     margin:  auto;
